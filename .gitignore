@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.tmp/
+.temp/
+optimize_font.py
+# On garde les polices finales mais on pourrait ignorer les TTC si elles sont trop lourdes
+# Pour l'instant on tente avec l'optimisation
